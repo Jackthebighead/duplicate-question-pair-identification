@@ -14,7 +14,7 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 
 ### Description of the Files
 
-- `sample_submission.csv`, `test.csv`, and `train.csv` are the dataset, original dataset is also accessible from Kaggle https://www.kaggle.com/c/quora-question-pairs/data
+- `sample_submission.csv`, `test.csv`, and `train.csv` are the dataset, original dataset is also accessible from Kaggle https://www.kaggle.com/c/quora-question-pairs/data.
 - Model 1 consists of `feature_engineering_train.ipynb`, `feature_engineering_test.ipynb`, ``fine_tuning_process.ipynb`, `modeling.ipynb`. The first two performs feature engineering while the third one performes hyperparameter fine-tuning recording, and the last one performs modeling with traditional machine learning models.
 - Model 2 consists of `lstm.ipynb` (the baseline), `lstm_featured.ipynb` (improvement), `bilstm.ipynb` (improvement), `lstm_featured-comparison.ipynb` (experiments).
 - Model 3 consists of `bert.ipynb`.
