@@ -49,7 +49,6 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 
 **Thanks for all these references.** 
 
-
 - Sanjeev Arora, Yingyu Liang, and Tengyu Ma. A simple but tough-to-beat baseline for sentence embeddings. 2016. 
 
 - Tianqi Chen and Carlos Guestrin. Xgboost: A scalable tree boosting system. In *Proceedings* *of the 22nd* *acm* *sigkdd* *international* *conference* *on* *knowledge* *discovery* *and data* *mining*, pp. 785–794, 2016. 
@@ -77,79 +76,6 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 
 - Lingxi Zhang, Zhiyong Feng, Wei Ren, and Hong Luo. Siamese-based bilstm network for scratch source code similarity measuring. In *2020 International Wireless Communications and Mobile* *Computing* *(IWCMC)*, pp. 1800–1805. IEEE, 2020. 
 
-- https://blog.csdn.net/u010657489/article/details/51952785
-
-- [https://github.com/seatgeek/fuzzywuzzy#usage](https://github.com/seatgeek/fuzzywuzzy)
-
-- [https://www.kaggle.com/amoyyean/lstm-with-glove](http://static.hongbozhang.me/doc/STAT_441_Report.pdf )
-
-- https://huggingface.co/transformers/model_doc/bert.html
-
-- [https://keras.io/api/layers/recurrent_layers/bidirectional/](https://huggingface.co/transformers/model_doc/bert.html)
-
-- [https://keras.io/api/layers/recurrent_layers/lstm/](https://huggingface.co/transformers/model_doc/bert.html)
-
-- https://keras.io/examples/nlp/semantic_similarity_with_bert/
-
-- https://keras.io/examples/nlp/masked_language_modeling/
-
-- https://www.sbert.net/docs/training/overview.html?highlight=get_word_embedding_dimension
-
-- [https://github.com/hanxiao/bert-as-service#building-a-qa-semantic-search-engine-in-3-minutes](https://github.com/hanxiao/bert-as-service)
-
-- https://github.com/dongfang91/text_similarity
-
-- https://github.com/UdiBhaskar/Quora-Question-pair-similarity
-
-- https://github.com/dimichai/quora-question-pairs/blob/master/bilstm_features.ipynb
-
-- [https://github.com/qqgeogor/kaggle-quora-solution-8th/tree/master/model_gzf/stack](https://spacy.io/models/en)
-
-- https://github.com/TanyaChutani/Siamese-Network-On-Text-Data
-
-- https://spacy.io/models/en
-
-- http://www.nltk.org/
-
-- https://radimrehurek.com/gensim/
-  =======
-
-- https://blog.csdn.net/u010657489/article/details/51952785
-
-- [https://github.com/seatgeek/fuzzywuzzy#usage](https://github.com/seatgeek/fuzzywuzzy)
-
-- [https://www.kaggle.com/amoyyean/lstm-with-glove](http://static.hongbozhang.me/doc/STAT_441_Report.pdf )
-
-- https://huggingface.co/transformers/model_doc/bert.html
-
-- [https://keras.io/api/layers/recurrent_layers/bidirectional/](https://huggingface.co/transformers/model_doc/bert.html)
-
-- [https://keras.io/api/layers/recurrent_layers/lstm/](https://huggingface.co/transformers/model_doc/bert.html)
-
-- https://keras.io/examples/nlp/semantic_similarity_with_bert/
-
-- https://keras.io/examples/nlp/masked_language_modeling/
-
-- https://www.sbert.net/docs/training/overview.html?highlight=get_word_embedding_dimension
-
-- [https://github.com/hanxiao/bert-as-service#building-a-qa-semantic-search-engine-in-3-minutes](https://github.com/hanxiao/bert-as-service)
-
-- https://github.com/dongfang91/text_similarity
-
-- https://github.com/UdiBhaskar/Quora-Question-pair-similarity
-
-- https://github.com/dimichai/quora-question-pairs/blob/master/bilstm_features.ipynb
-
-- [https://github.com/qqgeogor/kaggle-quora-solution-8th/tree/master/model_gzf/stack](https://spacy.io/models/en)
-
-- https://github.com/TanyaChutani/Siamese-Network-On-Text-Data
-
-- https://spacy.io/models/en
-
-- http://www.nltk.org/
-
-- https://radimrehurek.com/gensim/
-
 - Sanjeev Arora, Yingyu Liang, and Tengyu Ma. A simple but tough-to-beat baseline for sentence embeddings. 2016. 
 
 - Tianqi Chen and Carlos Guestrin. Xgboost: A scalable tree boosting system. In *Proceedings* *of the 22nd* *acm* *sigkdd* *international* *conference* *on* *knowledge* *discovery* *and data* *mining*, pp. 785–794, 2016. 
@@ -174,6 +100,42 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - Chi Sun, Xipeng Qiu, Yige Xu, and Xuanjing Huang. How to fine-tune bert for text classification? In *China National* *Conference* *on* *Chinese* *Computational* *Linguistics*, pp. 194–206. Springer, 2019. 
 
 - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. Attention is all you need. In *Advances* *in neural information* *processing* *systems*, pp. 5998–6008, 2017. 
-
 - Lingxi Zhang, Zhiyong Feng, Wei Ren, and Hong Luo. Siamese-based bilstm network for scratch source code similarity measuring. In *2020 International Wireless Communications and Mobile* *Computing* *(IWCMC)*, pp. 1800–1805. IEEE, 2020. 
+
+- https://blog.csdn.net/u010657489/article/details/51952785
+- [https://github.com/seatgeek/fuzzywuzzy#usage](https://github.com/seatgeek/fuzzywuzzy)
+- [https://www.kaggle.com/amoyyean/lstm-with-glove](http://static.hongbozhang.me/doc/STAT_441_Report.pdf )
+- https://huggingface.co/transformers/model_doc/bert.html
+- [https://keras.io/api/layers/recurrent_layers/bidirectional/](https://huggingface.co/transformers/model_doc/bert.html)
+- [https://keras.io/api/layers/recurrent_layers/lstm/](https://huggingface.co/transformers/model_doc/bert.html)
+- https://keras.io/examples/nlp/semantic_similarity_with_bert/
+- https://keras.io/examples/nlp/masked_language_modeling/
+- https://www.sbert.net/docs/training/overview.html?highlight=get_word_embedding_dimension
+- [https://github.com/hanxiao/bert-as-service#building-a-qa-semantic-search-engine-in-3-minutes](https://github.com/hanxiao/bert-as-service)
+- https://github.com/dongfang91/text_similarity
+- https://github.com/UdiBhaskar/Quora-Question-pair-similarity
+- https://github.com/dimichai/quora-question-pairs/blob/master/bilstm_features.ipynb
+- [https://github.com/qqgeogor/kaggle-quora-solution-8th/tree/master/model_gzf/stack](https://spacy.io/models/en)
+- https://github.com/TanyaChutani/Siamese-Network-On-Text-Data
+- https://spacy.io/models/en
+- http://www.nltk.org/
+- https://radimrehurek.com/gensim/
+- https://blog.csdn.net/u010657489/article/details/51952785
+- [https://github.com/seatgeek/fuzzywuzzy#usage](https://github.com/seatgeek/fuzzywuzzy)
+- [https://www.kaggle.com/amoyyean/lstm-with-glove](http://static.hongbozhang.me/doc/STAT_441_Report.pdf )
+- https://huggingface.co/transformers/model_doc/bert.html
+- [https://keras.io/api/layers/recurrent_layers/bidirectional/](https://huggingface.co/transformers/model_doc/bert.html)
+- [https://keras.io/api/layers/recurrent_layers/lstm/](https://huggingface.co/transformers/model_doc/bert.html)
+- https://keras.io/examples/nlp/semantic_similarity_with_bert/
+- https://keras.io/examples/nlp/masked_language_modeling/
+- https://www.sbert.net/docs/training/overview.html?highlight=get_word_embedding_dimension
+- [https://github.com/hanxiao/bert-as-service#building-a-qa-semantic-search-engine-in-3-minutes](https://github.com/hanxiao/bert-as-service)
+- https://github.com/dongfang91/text_similarity
+- https://github.com/UdiBhaskar/Quora-Question-pair-similarity
+- https://github.com/dimichai/quora-question-pairs/blob/master/bilstm_features.ipynb
+- [https://github.com/qqgeogor/kaggle-quora-solution-8th/tree/master/model_gzf/stack](https://spacy.io/models/en)
+- https://github.com/TanyaChutani/Siamese-Network-On-Text-Data
+- https://spacy.io/models/en
+- http://www.nltk.org/
+- https://radimrehurek.com/gensim/
 
