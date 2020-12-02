@@ -49,7 +49,6 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 
 **Thanks for all these references.** 
 
-<<<<<<< HEAD
 
 - Sanjeev Arora, Yingyu Liang, and Tengyu Ma. A simple but tough-to-beat baseline for sentence embeddings. 2016. 
 
@@ -178,4 +177,3 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 
 - Lingxi Zhang, Zhiyong Feng, Wei Ren, and Hong Luo. Siamese-based bilstm network for scratch source code similarity measuring. In *2020 International Wireless Communications and Mobile* *Computing* *(IWCMC)*, pp. 1800–1805. IEEE, 2020. 
 
->>>>>>> 29b09b7... first commit
