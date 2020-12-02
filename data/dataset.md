@@ -1,0 +1,2 @@
+- train.csv and sample_submission.csv is in this repo, but no test.csv due to the large size.
+- original dataset download from here: `https://www.kaggle.com/c/quora-question-pairs/data` or use command `kaggle competitions download -c quora-question-pairs`
