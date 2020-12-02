@@ -88,7 +88,6 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - https://www.sbert.net/docs/training/overview.html?highlight=get_word_embedding_dimension
 - [https://github.com/hanxiao/bert-as-service#building-a-qa-semantic-search-engine-in-3-minutes](https://github.com/hanxiao/bert-as-service)
 - https://github.com/dongfang91/text_similarity
-- https://github.com/UdiBhaskar/Quora-Question-pair-similarity
 - https://github.com/dimichai/quora-question-pairs/blob/master/bilstm_features.ipynb
 - [https://github.com/qqgeogor/kaggle-quora-solution-8th/tree/master/model_gzf/stack](https://spacy.io/models/en)
 - https://github.com/TanyaChutani/Siamese-Network-On-Text-Data
