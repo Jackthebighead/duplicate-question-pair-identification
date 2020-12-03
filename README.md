@@ -6,7 +6,7 @@
 
 ### Description of the Project
 
-In the domain of Natural Language Processing (NLP), text similarity is a hot spot. It is particularly important to measure the similarity between sentences or phrases in some NLP subareas such as dialog system and information retrieval. Quora Question Pairs is a Kaggle competition, which challenges participants to tackle the problem of identifying duplicate questions. This paper works on the sentence similarity problem and deals with the task of duplicate question pairs identifica- tion.
+In the domain of Natural Language Processing (NLP), text similarity is a hot spot. It is particularly important to measure the similarity between sentences or phrases in some NLP subareas such as dialog system and information retrieval. Quora Question Pairs is a Kaggle competition, which challenges participants to tackle the problem of identifying duplicate questions. This paper works on the sentence similarity problem and deals with the task of duplicate question pairs identification.
 
 In all, we proposes three models to tackle the duplicate question pairs iden- tification problem on the Quora Question Pairs dataset. **Model 1** uses traditional machine learning classifiers like SGD Classifier, Random Forest Classifier, and XGBoost Classifier with statistical, NLP and vector features extracted from ques- tion text for classification. **Model 2** uses a Siamese BiLSTM based neural network structure combined with NLP features for classification. **Model 3** fine-tunes BERT pre-trained model and uses a simple BiLSTM based neural network structure af- ter BERT to adapt features from BERT for classification. All models achive a relatively good results.
 
@@ -28,8 +28,8 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - I didn't upload the intermediate result (see pictures below), like the feature engineering results used in Model1. Model 2 also uses some of features (tm_feature.csv and nlp_feature.csv) from Model 1's feature engineering process. You need to run ipynb notebooks in the correct order to reproduce all my results.
 
   -  And also, some of my ipynb like:
-     -  in the `feature_engineering_train.ipynb` i used en_core_web_md but in the `modeling.ipynb` i changed it to en_core_web_sm that i obtained from previous experiment (this is because my laptop runs out of memory if using the md version, so i give it up in the modeling process, so if you want to reproduce, use the correct version of packages and functions)
-     -  in the `lstm_featured.ipynb`, you need to change to Bidirectional to get the results that i've get in the report/ppt/md_comments. 
+    -  in the `feature_engineering_train.ipynb` i used en_core_web_md but in the `modeling.ipynb` i changed it to en_core_web_sm that i obtained from previous experiment (this is because my laptop runs out of memory if using the md version, so i give it up in the modeling process, so if you want to reproduce, use the correct version of packages and functions)
+    -  in the `lstm_featured.ipynb`, you need to change to Bidirectional to get the results that i've get in the report/ppt/md_comments. 
 
   -  All these things need to be notices are been written in every ipynbs, read carefully. However, If you have any questions or want to get the intermediate results, feel free to reach me via `yanzheyuan23@sina.com`.
 
