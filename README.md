@@ -21,7 +21,7 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - Model 2 consists of `siamese_lstm.ipynb` (the baseline), `siamese_lstm_featured.ipynb` (improvement), `siamese_bilstm.ipynb` (improvement), `siamese_lstm_featured-comparison.ipynb` (experiments).
 - Model 3 consists of `bert.ipynb`.
 - `Duplicate_Question_Pairs_Identification.pdf` is the thesis.
-- `youtube_link.txt` contains the video link presenting our work.
+- `link.txt` contains the video link presenting our work via YouTube.
 
 
 
