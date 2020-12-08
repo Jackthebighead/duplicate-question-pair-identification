@@ -3,6 +3,7 @@
 # Documentation on Duplicate Question Pair Identification Project
 
 `Author: YUAN Yan Zhe, yanzheyuan23@sina.com`
+
 `Collaborators: WEN Ze @ WENZe79, YU Jia Hui @ YUJIAHUII`
 
 ### Description of the Project
@@ -19,8 +20,8 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - Model 1 consists of `feature_engineering_train.ipynb`, `feature_engineering_test.ipynb`, ``fine_tuning_process.ipynb`, `modeling.ipynb`. The first two performs feature engineering while the third one performes hyperparameter fine-tuning recording, and the last one performs modeling with traditional machine learning models.
 - Model 2 consists of `lstm.ipynb` (the baseline), `lstm_featured.ipynb` (improvement), `bilstm.ipynb` (improvement), `lstm_featured-comparison.ipynb` (experiments).
 - Model 3 consists of `bert.ipynb`.
-- `5012proj_report` is the thesis.
-- `5012proj_ppt` is the presentation material.
+- `Duplicate_Question_Pairs_Identification.pdf` is the thesis.
+- `youtube_link.txt` contains the video link presenting our work.
 
 
 
@@ -64,7 +65,7 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - Chi Sun, Xipeng Qiu, Yige Xu, and Xuanjing Huang. How to fine-tune bert for text classification? In *China National* *Conference* *on* *Chinese* *Computational* *Linguistics*, pp. 194–206. Springer, 2019. 
 - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. Attention is all you need. In *Advances* *in neural information* *processing* *systems*, pp. 5998–6008, 2017. 
 - Lingxi Zhang, Zhiyong Feng, Wei Ren, and Hong Luo. Siamese-based bilstm network for scratch source code similarity measuring. In *2020 International Wireless Communications and Mobile* *Computing* *(IWCMC)*, pp. 1800–1805. IEEE, 2020. 
-- https://blog.csdn.net/u010657489/article/details/51952785
+
 - [https://github.com/seatgeek/fuzzywuzzy#usage](https://github.com/seatgeek/fuzzywuzzy)
 - [https://www.kaggle.com/amoyyean/lstm-with-glove](http://static.hongbozhang.me/doc/STAT_441_Report.pdf )
 - https://huggingface.co/transformers/model_doc/bert.html
@@ -76,8 +77,6 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - [https://github.com/hanxiao/bert-as-service#building-a-qa-semantic-search-engine-in-3-minutes](https://github.com/hanxiao/bert-as-service)
 - https://github.com/dongfang91/text_similarity
 - https://github.com/dimichai/quora-question-pairs/blob/master/bilstm_features.ipynb
-- [https://github.com/qqgeogor/kaggle-quora-solution-8th/tree/master/model_gzf/stack](https://spacy.io/models/en)
-- https://github.com/TanyaChutani/Siamese-Network-On-Text-Data
 - https://spacy.io/models/en
 - http://www.nltk.org/
 - https://radimrehurek.com/gensim/
