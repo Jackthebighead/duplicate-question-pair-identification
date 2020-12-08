@@ -4,7 +4,7 @@
 
 `Author: YUAN Yan Zhe, yanzheyuan23@sina.com`
 
-`Collaborators: WEN Ze @ WENZe79, YU Jia Hui @ YUJIAHUII`
+`Collaborators: WEN Ze @WENZe79, YU Jia Hui @YUJIAHUII`
 
 ### Description of the Project
 
@@ -18,7 +18,7 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 
 - `sample_submission.csv`, `test.csv`, and `train.csv` are the dataset, original dataset is also accessible from Kaggle https://www.kaggle.com/c/quora-question-pairs/data.
 - Model 1 consists of `feature_engineering_train.ipynb`, `feature_engineering_test.ipynb`, ``fine_tuning_process.ipynb`, `modeling.ipynb`. The first two performs feature engineering while the third one performes hyperparameter fine-tuning recording, and the last one performs modeling with traditional machine learning models.
-- Model 2 consists of `lstm.ipynb` (the baseline), `lstm_featured.ipynb` (improvement), `bilstm.ipynb` (improvement), `lstm_featured-comparison.ipynb` (experiments).
+- Model 2 consists of `siamese_lstm.ipynb` (the baseline), `siamese_lstm_featured.ipynb` (improvement), `siamese_bilstm.ipynb` (improvement), `siamese_lstm_featured-comparison.ipynb` (experiments).
 - Model 3 consists of `bert.ipynb`.
 - `Duplicate_Question_Pairs_Identification.pdf` is the thesis.
 - `youtube_link.txt` contains the video link presenting our work.
@@ -31,7 +31,7 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 
   -  And also, some of my ipynb like:
     -  in the `feature_engineering_train.ipynb` i used en_core_web_md but in the `modeling.ipynb` i changed it to en_core_web_sm that i obtained from previous experiment (this is because my laptop runs out of memory if using the md version, so i give it up in the modeling process, so if you want to reproduce, use the correct version of packages and functions)
-    -  in the `lstm_featured.ipynb`, you need to change to Bidirectional to get the results that i've get in the report/ppt/md_comments. 
+    -  in the `siamese_lstm_featured.ipynb`, you need to change to Bidirectional to get the results that i've get in the report/ppt/md_comments. 
 
   -  All these things need to be notices are been written in every ipynbs, read carefully. However, If you have any questions or want to get the intermediate results, feel free to reach me via `yanzheyuan23@sina.com`.
 
