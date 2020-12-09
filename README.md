@@ -75,4 +75,5 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - http://www.nltk.org/
 - https://radimrehurek.com/gensim/
 
-
+### Liscense
+Please refer to: ![liscense_Jackthebighead](https://github.com/Jackthebighead/Duplicate-Question-Pairs-Identification/blob/main/LICENSE)
