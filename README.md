@@ -66,20 +66,6 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - Bhargav Srinivasa-Desikan. *Natural* *Language* *Processing* *and* *Computational* *Linguistics**: A* *prac**- tical guide to* *text* *analysis* *with* *Python,* *Gensim**,* *spaCy**, and* *Keras*. Packt Publishing Ltd, 2018. 
 - Chi Sun, Xipeng Qiu, Yige Xu, and Xuanjing Huang. How to fine-tune bert for text classification? In *China National* *Conference* *on* *Chinese* *Computational* *Linguistics*, pp. 194–206. Springer, 2019. 
 
-- [https://github.com/seatgeek/fuzzywuzzy#usage](https://github.com/seatgeek/fuzzywuzzy)
-- [https://www.kaggle.com/amoyyean/lstm-with-glove](http://static.hongbozhang.me/doc/STAT_441_Report.pdf )
-- https://huggingface.co/transformers/model_doc/bert.html
-- [https://keras.io/api/layers/recurrent_layers/bidirectional/](https://huggingface.co/transformers/model_doc/bert.html)
-- [https://keras.io/api/layers/recurrent_layers/lstm/](https://huggingface.co/transformers/model_doc/bert.html)
-- https://keras.io/examples/nlp/semantic_similarity_with_bert/
-- https://keras.io/examples/nlp/masked_language_modeling/
-- https://www.sbert.net/docs/training/overview.html?highlight=get_word_embedding_dimension
-- [https://github.com/hanxiao/bert-as-service#building-a-qa-semantic-search-engine-in-3-minutes](https://github.com/hanxiao/bert-as-service)
-- https://github.com/dongfang91/text_similarity
-- https://github.com/dimichai/quora-question-pairs/blob/master/bilstm_features.ipynb
-- https://spacy.io/models/en
-- http://www.nltk.org/
-- https://radimrehurek.com/gensim/
 
 ### Liscense
 Please refer to: [liscense_Jackthebighead](https://github.com/Jackthebighead/Duplicate-Question-Pairs-Identification/blob/main/LICENSE)
