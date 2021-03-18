@@ -62,7 +62,7 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 - bidirectional transformers for language understanding. *arXiv* *preprint* *arXiv:1810.04805*, 2018. 
 - Zainab Imtiaz, Muhammad Umer, Muhammad Ahmad, Saleem Ullah, Gyu Sang Choi, and Arif Mehmood. Duplicate questions pair detection using siamese malstm. *IEEE Access*, 8:21932– 21942, 2020. 
 - Matt Kusner, Yu Sun, Nicholas Kolkin, and Kilian Weinberger. From word embeddings to document distances. In *International* *conference* *on machine* *learning*, pp. 957–966, 2015. 
-- Jonas Mueller and Aditya Thyagarajan. Siamese recurrent architectures for learning sentence simi- larity. In *thirtieth* *AAAI* *conference* *on* *artificial* *intelligence*, 2016.  
+- Jonas Mueller and Aditya Thyagarajan. Siamese recurrent architectures for learning sentence simi- larity. In *thirtieth* *AAAI* *conference* *on* *artificial* *intelligence*, 2016..
 - Bhargav Srinivasa-Desikan. *Natural* *Language* *Processing* *and* *Computational* *Linguistics**: A* *prac**- tical guide to* *text* *analysis* *with* *Python,* *Gensim**,* *spaCy**, and* *Keras*. Packt Publishing Ltd, 2018. 
 - Chi Sun, Xipeng Qiu, Yige Xu, and Xuanjing Huang. How to fine-tune bert for text classification? In *China National* *Conference* *on* *Chinese* *Computational* *Linguistics*, pp. 194–206. Springer, 2019. 
 
