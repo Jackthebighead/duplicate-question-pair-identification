@@ -2,7 +2,7 @@
 Note: Updates on this project are shown here. But model results in the report will remain the status on DEC 3rd, 2020.
 - try to improve Model 3, using the training dataset only.
 - try to explore new models.
-- try to do model stacking.
+- try to do model stacking...
 
 # Documentation on Duplicate Question Pair Identification Project
 
