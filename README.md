@@ -43,11 +43,13 @@ In all, we proposes three models to tackle the duplicate question pairs iden- ti
 
 - You may not be able to run this code, use the corresponding package depending on the situation of your computer. I've write clearly the relevant requirements in each ipynb file.
 
+- There are other mehtods that I tried but didn't put into this repo: Fine-tuned BERT(compared to model 3), sentence BERT(Siamese BERT), ESIM with Features (compared with model 2).
+
 
 
 ### Conclusions on the Project
 
-- This is the term project of MSBD5012 Machine Learning course offered by HKUST SENG BDT (Big Data Technology) program in my first Master semester at HKUST. My instructor is Prof. Nevin ZHANG. and big thanks to him for teaching us such a meaningful and valuable course. 
+- This is a ML project under the supervision of Prof. Nevin ZHANG. and big thanks to him for helping me.
 
 - **In all, this project explore the ways to deal with Quora Question Pairs, which is a classical problem in NLP-Text Similarity subarea.** However, many things are still not done like optimizing Model 3, trying new approaches, and model stacking, etc. Hopefully i will study more in NLP area and optimize my models in the future.
 
