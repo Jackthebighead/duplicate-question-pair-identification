@@ -3,7 +3,7 @@
 - Mmodel stacking, tbc..
 ### Update (2020.12.21)
 Note: Updates on this project are shown here. 
-But model results in the report (for MSBD5012ML course project only) will remain the status on DEC 3rd, 2020.
+But model results in the report (for 5012:ML course project only) will remain the status on DEC 3rd, 2020.
 - sentence BERT(Siamese BERT) is tried. 2020.12.21
 - ESIM is tried. 2020.12.21
 
@@ -19,7 +19,7 @@ But model results in the report (for MSBD5012ML course project only) will remain
 
 In the domain of Natural Language Processing (NLP), text similarity is a hot spot. It is particularly important to measure the similarity between sentences or phrases in some NLP subareas such as dialog system and information retrieval. Quora Question Pairs is a Kaggle competition, which challenges participants to tackle the problem of identifying duplicate questions. This paper works on the sentence similarity problem and deals with the task of duplicate question pairs identification.
 
-In all (so far, as for the ML course project), we proposes three models to tackle the duplicate question pairs identification problem on the Quora Question Pairs dataset. **Model 1** uses traditional machine learning classifiers like SGD Classifier, Random Forest Classifier, and XGBoost Classifier with statistical, NLP and vector features extracted from ques- tion text for classification. **Model 2** uses a Siamese BiLSTM based neural network structure combined with NLP features for classification. **Model 3** fine-tunes BERT pre-trained model and uses a simple BiLSTM based neural network structure after BERT to adapt features from BERT for classification. All models achive a relatively good results.
+In all (so far as for the ML course project), we proposes three models to tackle the duplicate question pairs identification problem on the Quora Question Pairs dataset. **Model 1** uses traditional machine learning classifiers like SGD Classifier, Random Forest Classifier, and XGBoost Classifier with statistical, NLP and vector features extracted from ques- tion text for classification. **Model 2** uses a Siamese BiLSTM based neural network structure combined with NLP features for classification. **Model 3** fine-tunes BERT pre-trained model and uses a simple BiLSTM based neural network structure after BERT to adapt features from BERT for classification. All models achive a relatively good results.
 
 
 
@@ -46,7 +46,7 @@ In all (so far, as for the ML course project), we proposes three models to tackl
 
 - You may not be able to run this code, use the corresponding package depending on the situation of your computer. I've write clearly the relevant requirements in each ipynb file.
 
-- There are other mehtods that I tried but didn't put into this repo: Fine-tuned BERT(compared to model 3), sentence BERT(Siamese BERT), ESIM with Features (compared with model 2).
+- There are other mehtods that I tried but didn't put into this repo and the course project report: Fine-tuned BERT(compared to model 3), sentence BERT(Siamese BERT), ESIM with Features (compared with model 2). If you have any need, feel free to contact me
 
 
 
