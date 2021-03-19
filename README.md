@@ -1,9 +1,10 @@
 ### Newly update
 Note: Updates on this project are shown here. But model results in the report will remain the status on DEC 3rd, 2020.
-- try to improve Model 3, using sentence BERT(Siamese BERT), not better than BERT with Siamese BiLSTM with features. 2021.12.15
+- try to explore new models, tbc..
+- try to do model stacking,tbc..
+- try to improve Model 3, using sentence BERT(Siamese BERT), not better than BERT with Siamese BiLSTM with features. 2020.12.15
 - ESIM is tried. 2020.12.15
-- try to explore new models, tbc
-- try to do model stacking,tbc
+
 
 # Documentation on Duplicate Question Pair Identification Project
 
