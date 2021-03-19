@@ -4,8 +4,8 @@
 ### Update (2020.12.21)
 Note: Updates on this project are shown here. 
 But model results in the report (for 5012:ML course project only) will remain the status on DEC 3rd, 2020.
-- sentence BERT(Siamese BERT) is tried. 2020.12.21
-- ESIM is tried. 2020.12.21
+- sentence BERT(Siamese BERT) is tried. 2020.12.21 [sbert](https://arxiv.org/pdf/1908.10084.pdf)
+- ESIM is tried. 2020.12.21 [esim](https://arxiv.org/pdf/1609.06038.pdf)
 
 # Documentation on Duplicate Question Pair Identification Project
 
