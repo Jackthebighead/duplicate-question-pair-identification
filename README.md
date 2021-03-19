@@ -1,7 +1,6 @@
 ### Newly update
 - try to explore the use of [Enhanced RCNN](https://dl.acm.org/doi/pdf/10.1145/3366423.3379998), tbc..
 - Mmodel stacking, tbc..
-<br>
 ### Update
 Note: Updates on this project are shown here. But model results in the report will remain the status on DEC 3rd, 2020.
 - try to improve Model 3, using sentence BERT(Siamese BERT), not better than BERT with Siamese BiLSTM with features. 2020.12.15
