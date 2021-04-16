@@ -13,8 +13,6 @@ But model results in the report (for 5012:ML course project only) will remain th
 
 `written on **DEC 3rd, 2020**`
 
-`Collaborators: WEN Ze @WENZe79, YU Jia Hui @YUJIAHUII`
-
 ### Description of the Project
 
 In the domain of Natural Language Processing (NLP), text similarity is a hot spot. It is particularly important to measure the similarity between sentences or phrases in some NLP subareas such as dialog system and information retrieval. Quora Question Pairs is a Kaggle competition, which challenges participants to tackle the problem of identifying duplicate questions. This paper works on the sentence similarity problem and deals with the task of duplicate question pairs identification.
