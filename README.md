@@ -1,4 +1,4 @@
-This repository contains model solutions for duplicate question(sentence) pair classification on QQP dataset, which solves the problem of Semantic Text Simmilarity in NLP. This is a continuous updating repository. Newly updates are shown before the documentation of the projects. **Some codes after 2020.12.21 are not updated now in this repo, and they will be released soon **.
+This repository contains model solutions for duplicate question(sentence) pair classification on QQP dataset, which solves the problem of Semantic Text Simmilarity in NLP. This is a continuous updating repository. Newly updates are shown before the documentation of the projects. **Some codes after 2020.12.21 are not updated now in this repo, and they will be released soon**.
 
 ### Newly update (2021.1.15)
 - implemented [Enhanced RCNN](https://dl.acm.org/doi/pdf/10.1145/3366423.3379998).
