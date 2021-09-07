@@ -1,6 +1,7 @@
 ### Newly update (2021.1.1)
+- Some codes after 2020.12.21 are not remained, which will be released soon.
 - try to explore the use of [Enhanced RCNN](https://dl.acm.org/doi/pdf/10.1145/3366423.3379998), tbc..
-- Mmodel stacking, tbc..
+- Model stacking, tbc..
 ### Update (2020.12.21)
 Note: Updates on this project are shown here. 
 But model results in the report (for 5012:ML course project only) will remain the status on DEC 3rd, 2020.
