@@ -26,9 +26,6 @@ In all (so far as for the ML course project), we proposes three models to tackle
 - Model 1 consists of `feature_engineering_train.ipynb`, `feature_engineering_test.ipynb`, ``fine_tuning_process.ipynb`, `modeling.ipynb`. The first two performs feature engineering while the third one performes hyperparameter fine-tuning recording, and the last one performs modeling with traditional machine learning models.
 - Model 2 consists of `siamese_lstm.ipynb` (the baseline), `siamese_lstm_featured.ipynb` (improvement), `siamese_bilstm.ipynb` (improvement), `siamese_lstm_featured-comparison.ipynb` (experiments).
 - Model 3 consists of `bert.ipynb`.
-- `Duplicate_Question_Pairs_Identification.pdf` is the thesis.
-- `link.txt` contains the video link presenting our work via YouTube.
-
 
 
 ### Notes on Reproduction
@@ -50,7 +47,7 @@ In all (so far as for the ML course project), we proposes three models to tackle
 
 ### Acknowledgements
 
-- This is a ML project under the supervision of Prof. Nevin ZHANG. and big thanks to him for helping me.
+- This is a ML project under the supervision of my Professor. and big thanks to him for helping me.
 
 
 
