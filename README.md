@@ -8,7 +8,4 @@ This repository contains model solutions for duplicate question(sentence) pair c
 
 ### Update (2020.12.21)
 - sentence BERT(Siamese BERT) is tried.
-- ESIM is tried. 2020.12.21
-
-### Liscense
-Please refer to: [liscense_Jackthebighead](https://github.com/Jackthebighead/Duplicate-Question-Pairs-Identification/blob/main/LICENSE)
+- ESIM is tried
