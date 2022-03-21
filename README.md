@@ -1,4 +1,4 @@
-This repository contains model solutions for duplicate question(sentence) pair classification on QQP dataset, which solves the problem of Semantic Text Simmilarity in NLP. This is a continuous updating repository. Newly updates are shown before the documentation of the projects. **Some codes after 2020.12.21 are not updated now in this repo, and they will be released soon**.
+This repository contains model solutions for duplicate question(sentence) pair classification on QQP dataset, which solves the problem of Semantic Text Simmilarity in NLP. This is a continuous updating repository. Newly updates are shown before the documentation of the projects.
 
 ### Newly update (2021.1.15)
 - implemented [Enhanced RCNN](https://dl.acm.org/doi/pdf/10.1145/3366423.3379998).
@@ -22,12 +22,6 @@ In all (so far as for the ML course project), we proposes three models to tackle
 
 ### Introduction of the Files
 
--  `sample_submission.csv`, `test.csv`, and `train.csv` are the dataset, original dataset is also accessible from Kaggle https://www.kaggle.com/c/quora-question-pairs/data.
-- Model 1 consists of `feature_engineering_train.ipynb`, `feature_engineering_test.ipynb`, ``fine_tuning_process.ipynb`, `modeling.ipynb`. The first two performs feature engineering while the third one performes hyperparameter fine-tuning recording, and the last one performs modeling with traditional machine learning models.
-- Model 2 consists of `siamese_lstm.ipynb` (the baseline), `siamese_lstm_featured.ipynb` (improvement), `siamese_bilstm.ipynb` (improvement), `siamese_lstm_featured-comparison.ipynb` (experiments).
-- Model 3 consists of `bert.ipynb`.
-
-
 ### Notes on Reproduction
 
 - I didn't upload the intermediate result (see pictures below), like the feature engineering results used in Model1. Model 2 also uses some of features (tm_feature.csv and nlp_feature.csv) from Model 1's feature engineering process. You need to run ipynb notebooks in the correct order to reproduce all my results.
@@ -38,7 +32,7 @@ In all (so far as for the ML course project), we proposes three models to tackle
 
   -  All these things need to be noticed are written in every ipynbs, read carefully. However, If you have any questions or want to get the intermediate results, feel free to reach me.
 
-- You may not be able to run this code, use the corresponding package depending on the situation of your computer. I've write clearly the relevant requirements in each ipynb file.
+- You may not be able to run this code, use the corresponding package depending on the situation of your computer. I've written clearly the relevant requirements in each ipynb file.
 
 - There are other mehtods that I tried but didn't put into this repo and the course project report: Fine-tuned BERT(compared to model 3), sentence BERT(Siamese BERT), ESIM with Features (compared with model 2). If you have any need, feel free to contact me. 
   - (In all, this project explore the ways to deal with Quora Question Pairs, which is a classical problem in NLP-Text Similarity subarea. However, many things are still not done like optimizing Model 3, trying new approaches, and model stacking, etc. Hopefully i will study more in NLP area and optimize my models in the future.)
