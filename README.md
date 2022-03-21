@@ -5,7 +5,7 @@ This repository contains model solutions for duplicate question(sentence) pair c
 - model stacking, tbc..
 
 ### Update (2020.12.21)
-- Model results in the report (for 5012:ML course project only) will remain the status on DEC 3rd, 2020.
+- Model results in the report (for ML course project only) will remain the status on DEC 3rd, 2020.
 - sentence BERT(Siamese BERT) is tried. 2020.12.21 [sbert](https://arxiv.org/pdf/1908.10084.pdf)
 - ESIM is tried. 2020.12.21 [esim](https://arxiv.org/pdf/1609.06038.pdf)
 
@@ -36,7 +36,7 @@ In all (so far as for the ML course project), we proposes three models to tackle
     -  in the `feature_engineering_train.ipynb` i used en_core_web_md but in the `modeling.ipynb` i changed it to en_core_web_sm that i obtained from previous experiment (this is because my laptop runs out of memory if using the md version, so i give it up in the modeling process, so if you want to reproduce, use the correct version of packages and functions)
     - in the `siamese_lstm_featured.ipynb`, you need to change to Bidirectional to get the results that i've get in the report/ppt/md_comments. 
 
-  -  All these things need to be notices are been written in every ipynbs, read carefully. However, If you have any questions or want to get the intermediate results, feel free to reach me via **`yanzheyuan23@sina.com`**.
+  -  All these things need to be noticed are written in every ipynbs, read carefully. However, If you have any questions or want to get the intermediate results, feel free to reach me.
 
 - You may not be able to run this code, use the corresponding package depending on the situation of your computer. I've write clearly the relevant requirements in each ipynb file.
 
